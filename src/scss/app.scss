@@ -28,8 +28,8 @@ html {
 }
 
 .card {
+    box-sizing: content-box;
     border: 10px solid $grey-light;
-    box-sizing: border-box;
     width: 500px;
 }
 
